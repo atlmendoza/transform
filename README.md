@@ -1,5 +1,5 @@
 # Bonus in-class exercise on the use of transform and transition
-## This repository could be accessed through this http://bit.ly/4e3KCz9 as well.
+## The student repository version could be accessed through this http://bit.ly/4e3KCz9.
 
 - Download and fork the repository https://github.com/atlmendoza/transformStudent.git into your own and then clone it inside your VSCode for editing
 
